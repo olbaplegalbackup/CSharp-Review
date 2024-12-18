@@ -1,0 +1,14 @@
+C:\dev\StropWatch\bin\Debug\net9.0\StropWatch.exe
+C:\dev\StropWatch\bin\Debug\net9.0\StropWatch.deps.json
+C:\dev\StropWatch\bin\Debug\net9.0\StropWatch.runtimeconfig.json
+C:\dev\StropWatch\bin\Debug\net9.0\StropWatch.dll
+C:\dev\StropWatch\bin\Debug\net9.0\StropWatch.pdb
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.AssemblyInfoInputs.cache
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.AssemblyInfo.cs
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.csproj.CoreCompileInputs.cache
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.dll
+C:\dev\StropWatch\obj\Debug\net9.0\refint\StropWatch.dll
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.pdb
+C:\dev\StropWatch\obj\Debug\net9.0\StropWatch.genruntimeconfig.cache
+C:\dev\StropWatch\obj\Debug\net9.0\ref\StropWatch.dll
