@@ -1,0 +1,14 @@
+C:\dev\moeda\bin\Debug\net9.0\moeda.exe
+C:\dev\moeda\bin\Debug\net9.0\moeda.deps.json
+C:\dev\moeda\bin\Debug\net9.0\moeda.runtimeconfig.json
+C:\dev\moeda\bin\Debug\net9.0\moeda.dll
+C:\dev\moeda\bin\Debug\net9.0\moeda.pdb
+C:\dev\moeda\obj\Debug\net9.0\moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\moeda\obj\Debug\net9.0\moeda.AssemblyInfoInputs.cache
+C:\dev\moeda\obj\Debug\net9.0\moeda.AssemblyInfo.cs
+C:\dev\moeda\obj\Debug\net9.0\moeda.csproj.CoreCompileInputs.cache
+C:\dev\moeda\obj\Debug\net9.0\moeda.dll
+C:\dev\moeda\obj\Debug\net9.0\refint\moeda.dll
+C:\dev\moeda\obj\Debug\net9.0\moeda.pdb
+C:\dev\moeda\obj\Debug\net9.0\moeda.genruntimeconfig.cache
+C:\dev\moeda\obj\Debug\net9.0\ref\moeda.dll
